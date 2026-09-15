@@ -4,6 +4,11 @@ Columns WAT is a complete falling-triplet jewel game written directly in
 WebAssembly text format. Its layout draws from the arcade and Genesis Columns
 playfield, rendered as crisp pixel art in a true 1280×720 framebuffer.
 
+## Play it now:
+```
+npx wasmcart https://raw.githubusercontent.com/wasmcart/columns-wat/main/columns-wat.wasc
+```
+
 ## Build, run, and test
 
 ```sh
