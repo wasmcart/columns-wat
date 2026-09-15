@@ -51,5 +51,5 @@ The test suite validates the wasmcart ABI, 1280×720 output, forward and reverse
 jewel cycling, face-button behavior, accelerated Down input, movement,
 horizontal match resolution, and stereo audio output.
 
-Learn more about the format, runtime, and other carts at
-[wasmcart.org](https://wasmcart.org/).
+[WasmCart](https://wasmcart.org/) is an open format and runtime for portable
+WebAssembly game cartridges.
