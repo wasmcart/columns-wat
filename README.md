@@ -9,6 +9,8 @@ playfield, rendered as crisp pixel art in a true 1280×720 framebuffer.
 npx wasmcart https://raw.githubusercontent.com/wasmcart/columns-wat/main/columns-wat.wasc
 ```
 
+![Columns gameplay after several turns](screenshots/gameplay.png)
+
 ## Build, run, and test
 
 ```sh
